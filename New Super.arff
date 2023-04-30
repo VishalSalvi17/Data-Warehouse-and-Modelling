@@ -1,0 +1,28 @@
+@relation supermarket
+@attribute 'bread and cake' { t}
+@attribute 'juice' { t}
+@attribute 'tea' { t}
+@attribute 'biscuits' { t}
+@attribute 'fish-meat' { t}
+@attribute 'fruit' { t}
+@attribute 'vegetables' { t}
+@attribute 'coffee' { t}
+@attribute 'spices' { t}
+@attribute 'jams-spreads' { t}
+@attribute 'cheese' { t}
+@attribute 'chickens' { t}
+@attribute 'milk-cream' { t}
+@attribute 'cold-meats' { t}
+@data
+t,t,t,t,t,t,t,t,t,t,t,?,t,?
+t,t,?,t,t,t,t,t,t,t,t,?,t,?
+t,t,t,?,t,t,t,?,t,t,t,t,t,t
+t,t,?,t,t,t,t,t,t,t,t,?,t,?
+t,t,t,t,t,t,t,?,t,t,t,t,t,t
+t,t,?,t,t,t,t,t,t,t,t,t,t,?
+t,t,?,t,?,t,t,?,t,t,t,?,t,t
+t,t,?,t,t,t,t,t,t,t,t,t,t,?
+t,t,t,?,t,t,t,t,t,t,t,?,t,t
+t,t,t,?,t,t,t,t,t,t,t,?,t,?
+t,t,?,t,t,t,t,t,t,t,t,t,t,t
+t,t,t,?,t,?,t,t,?,t,t,?,t,t

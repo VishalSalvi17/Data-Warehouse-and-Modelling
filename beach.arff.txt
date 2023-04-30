@@ -1,0 +1,23 @@
+@relation beach
+
+@attribute condition {Sunny,Cloudy,Raining}
+@attribute temperature numeric
+@attribute class {Yes,No}
+
+@data
+Sunny	85	Yes
+Sunny	75	Yes
+Cloudy	95	Yes
+Cloudy	60	No
+Raining	80	No
+Sunny	95	Yes
+Raining	93	No
+Cloudy	79	Yes
+Sunny	50	No
+Cloudy	71	No
+Raining	53	No
+Raining	89	No
+Cloudy	87	Yes
+Sunny	81	Yes
+Cloudy	67	No
+Raining	72	No

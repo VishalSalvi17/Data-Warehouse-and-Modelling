@@ -1,0 +1,23 @@
+@relation weather
+
+@attribute outlook {s, o, r}
+@attribute temperature real
+@attribute humidity real
+@attribute windy {T, F}
+@attribute play {y, n}
+
+@data
+s,85,85,F,n
+s,80,90,T,n
+o,83,86,F,y
+r,70,96,F,y
+r,68,80,F,y
+r,65,70,T,n
+o,64,65,T,y
+s,72,95,F,n
+s,69,70,F,y
+r,75,80,F,y
+s,75,70,T,y
+o,72,90,T,y
+o,81,75,F,y
+r,71,91,T,n
